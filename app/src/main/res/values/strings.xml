@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="please_enter_your_username">Please Enter Your Username</string>
+    <string name="please_enter_your_creditials_to_login_into_the_system">Please enter your creditials to login into the system</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="login">login</string>
+    <string name="dont_have_accont">Dont Have Accont?</string>
+    <string name="create_new_account">Create New Account</string>
+</resources>
